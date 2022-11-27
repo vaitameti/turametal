@@ -1,0 +1,16 @@
+nav > a {
+    font-family: 'rockwell' !important;
+    font-size: 2.8rem !important;
+    color: azure !important;
+}
+nav{
+    box-shadow: 0 0 20px #000000;
+}
+.navbar-nav{
+    text-align: center;
+}
+
+.nav-link{
+    color: azure !important;
+    font-size: 1.5rem;
+}

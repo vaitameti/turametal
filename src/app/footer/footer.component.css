@@ -1,0 +1,47 @@
+
+footer{
+    margin-top: 2%;
+    text-align: center;
+    color: azure;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    font-family: 'rockwell';
+    background-image: url(../../assets/photos/weldingNavbar.jpg);
+    background-size:cover;  
+    box-shadow: 0 0 20px #000000;
+    background-repeat: no-repeat;
+}
+a{
+    color: azure;
+}
+.socialMedia > ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.socialMedia{
+    text-align: center;
+}
+.companyName{
+    font-size: 2rem;
+    padding-top: 5%;
+    font-family: 'rockwell';
+    color: azure;
+}
+.footerLinks{
+    padding: 2%;
+    background-color: 	rgba(0, 0, 0, 0.68);
+}
+.contact{
+    display: block;
+    color: azure;
+}
+
+.contact > div{
+    margin: 2%;
+}
+.copyright{
+    color: azure;
+    font-size: 1rem;
+    margin-top: 5%;
+}
